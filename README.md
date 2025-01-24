@@ -40,26 +40,31 @@
 
 ### 분기별 의류
 <br>
+
 ![IMG2](https://github.com/user-attachments/assets/0ecb9a6c-b860-4e09-99e2-76738cd9d6a2)
 
 
 ### 나이대별 총소비량
 <br>
+
 ![IMG_4](https://github.com/user-attachments/assets/6ca6cbc1-21e2-41cf-9bb2-e1594e199771)
 
 
 ### 성별별 주방용품
 <br>
+
 ![IMG3](https://github.com/user-attachments/assets/6fabc3e8-2bf2-47b7-89c2-16c60f2d15c0)
 
 
 ### 지역별 교육비
 <br>
-![IMG5](https://github.com/user-attachments/assets/940bdef8-2a66-46c2-8c0d-b30bebab20c4)
+
+![Image](https://github.com/user-attachments/assets/fef7d09b-968b-4688-bfed-82ba5a331c29)
 
 
 ### 나이대별 이용자수
 <br>
+
 ![IMG1](https://github.com/user-attachments/assets/2b4df039-9e8b-4541-aff6-835fe700bb9a)
 
 
