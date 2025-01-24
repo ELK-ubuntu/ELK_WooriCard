@@ -31,7 +31,7 @@
 
 ### 나이대별 이용자수
 <br>
-![나이대별이용자수](https://github.com/user-attachments/assets/57ffd3a5-9925-4467-b199-b59371504b04)
+![image](https://github.com/user-attachments/assets/57ffd3a5-9925-4467-b199-b59371504b04)
 
 
 ## 데이터에 대한 팀원들의 견해
