@@ -13,6 +13,7 @@
 
 ## 데이터 시각화
 
+
 ### < 생애 주기별 체크/신용카드 사용 금액 현황 >
 ![LifeStage별](life_stage.png)
 
@@ -35,6 +36,28 @@
 <br>
 ✅ 서울과 경기 지역은 교통 인프라가 잘 발달하고, 이동거리가 상대적으로 짧아 자동차 유지비용이 낮게 나타나는 경향을 보인다.
 
+<br>
+
+### 분기별 의류
+<br>
+![image](https://github.com/user-attachments/assets/102390fe-3562-42af-82f5-3c7858367c55)
+
+### 나이대별 총소비량
+<br>
+![image](https://github.com/user-attachments/assets/bc37a418-520e-4ec6-8ede-7a0e8fc98f6c)
+
+### 성별별 주방용품
+<br>
+![image](https://github.com/user-attachments/assets/69130e93-abbf-40ff-a3ae-c8320de494f8)
+
+### 지역별 교육비
+<br>
+![image](https://github.com/user-attachments/assets/59c0cd1e-e639-4487-b206-a5cb729115c0)
+
+### 나이대별 이용자수
+<br>
+![image](https://github.com/user-attachments/assets/57ffd3a5-9925-4467-b199-b59371504b04)
+
 
 
 ## 데이터에 대한 팀원들의 견해
@@ -43,14 +66,15 @@
 팀원들의 공통된 예측과 다른 결과가 시각화를 통해 확인되었다. 
 
 
-#### 1. 사람들은 2Q에 소비를 가장 많이 할까?
+#### 1. 사람들은 2Q에 의류 소비를 가장 많이 할까?
 
 
+겨울옷의 가격대가 더 높기때문에 당연히 4분기에 평균 옷 소비금액이 높을것이라는 예상과는 달리
 
 
+#### 2. 평균 교육비가 가장 높은 지역은 제주도에 거주하는 사람들?
 
-#### 2. 평균 소비 금액이 가장 높은 지역은 제주도에 거주하는 사람들?
-
+![image](https://github.com/user-attachments/assets/59c0cd1e-e639-4487-b206-a5cb729115c0)
 
 #### 3. VVIP들의 총 소비 금액은 왜 적을까?
 
