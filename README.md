@@ -40,23 +40,28 @@
 
 ### 분기별 의류
 <br>
-![image](https://github.com/user-attachments/assets/102390fe-3562-42af-82f5-3c7858367c55)
+
+![alt text](IMG2.png)
 
 ### 나이대별 총소비량
 <br>
-![image](https://github.com/user-attachments/assets/bc37a418-520e-4ec6-8ede-7a0e8fc98f6c)
+
+![alt text](IMG_4.png)
 
 ### 성별별 주방용품
 <br>
-![image](https://github.com/user-attachments/assets/69130e93-abbf-40ff-a3ae-c8320de494f8)
+
+![alt text](IMG3-1.PNG)
 
 ### 지역별 교육비
 <br>
+
 ![image](https://github.com/user-attachments/assets/59c0cd1e-e639-4487-b206-a5cb729115c0)
 
 ### 나이대별 이용자수
 <br>
-![image](https://github.com/user-attachments/assets/57ffd3a5-9925-4467-b199-b59371504b04)
+
+![alt text](IMG1.PNG)
 
 
 
@@ -68,13 +73,19 @@
 
 #### 1. 사람들은 2Q에 의류 소비를 가장 많이 할까?
 
-
-겨울옷의 가격대가 더 높기때문에 당연히 4분기에 평균 옷 소비금액이 높을것이라는 예상과는 달리
+겨울옷의 가격대가 더 높기때문에 당연히 4분기에 평균 옷 소비금액이 높을것이라는 예상과는 달리 데이터는 **2분기**에 가장 높은것으로 확인되었다. 일반적으로 생각해보았을때 겨울철 외투 비용과 여름철 옷 비용은 크게 차이가 나기 때문에 우리카드 데이터의 신뢰도 확인이 필요하다는 결론이 났다.
 
 
 #### 2. 평균 교육비가 가장 높은 지역은 제주도에 거주하는 사람들?
 
-![image](https://github.com/user-attachments/assets/59c0cd1e-e639-4487-b206-a5cb729115c0)
+서울이나 경기지역으로 갈수록 교육비가 가장 높을 것이라 예상했던 바와 달리 세종, 제주지역에 평균 교육비가 가장 높은것으로 확인되었다.
+
+![alt text](교육비_기사.jpg)
+
+[출처] : https://www.nextplay.kr/news/articleView.html?idxno=7261
+
+뉴스기사와 실데이터의 분석내용이 일치하지 않는것으로 보아 실데이터의 신뢰도와 객관성 확인이 필요하다는 결론이 났다.
+
 
 #### 3. VVIP들의 총 소비 금액은 왜 적을까?
 
